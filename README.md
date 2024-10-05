@@ -20,3 +20,5 @@ Vite + React + TypeScript で書かれています。
    - 1枚の画像の場合は直接ダウンロードされ、複数の画像の場合はZIPファイルでダウンロードされます。
 
 
+## デブロイされたURL
+https://warm-arithmetic-0b6e2a.netlify.app/
