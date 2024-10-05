@@ -1,2 +1,2 @@
-# web-WaterMark
+# Web-WaterMark
 Webアプリ
